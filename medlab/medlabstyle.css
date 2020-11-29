@@ -72,3 +72,21 @@ body {
   background-color: rgb(218, 233, 238);
   padding-left: 15px;
 }
+
+
+
+
+.gallery .gallery-item {
+  overflow: hidden;
+  border-right: 3px solid #fff;
+  border-bottom: 3px solid #fff;
+}
+
+
+
+.masthead
+{
+  height: 500px;
+  width: 700px;
+  margin-left: 21%;
+}
